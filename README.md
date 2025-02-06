@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Pandey
 - 👀 I’m interested in Software Domain.
 - 🌱 I’m currently learning DSA and Development.
-- 📫 Reach me through Linkedin @www.linkedin.com/in/mayank-pandey-789011343
+
   
 
 <!---
