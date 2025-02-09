@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Pandey
 - 👀 I’m interested in Software Domain.
 - 🌱 I’m currently learning DSA and Development.
--   Doing BTech From Sagar Group Of Institute Bhopal.
+-   Doing BTech From Sagar Institute of  Reserach And Technology Bhopal.
 
   
 
