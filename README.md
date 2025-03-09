@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mayank Pandey
 - 👀 I’m interested in Software Domain.
 - 🌱 I’m currently learning DSA and Development.
+-   Good in C++ Programming.
 -   Python Developer.
 -   Doing BTech From Sagar Institute of  Reserach And Technology Bhopal.
 -   My LinkedIn (http://linkedin.com/in/maynak-pandey-789011343).
